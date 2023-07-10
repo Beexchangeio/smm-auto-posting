@@ -1,3 +1,4 @@
+pip install tweepy
 import tweepy
 
 # Twitter API credentials
