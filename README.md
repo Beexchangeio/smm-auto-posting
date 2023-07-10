@@ -1,4 +1,5 @@
 # smm-auto-posting
+![logo](https://github.com/Beexchangeio/smm-auto-posting/assets/108594892/f89722cf-0e3c-4715-8931-bfa112371c3f)
 
 For Twitter :
 Make sure to replace the placeholder values in the consumer_key, consumer_secret, access_token, and access_token_secret variables with your own Twitter API credentials. You can obtain these credentials by creating a Twitter Developer account and registering a new application.
