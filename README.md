@@ -16,4 +16,11 @@ Make sure to replace 'YOUR_ACCESS_TOKEN' and 'YOUR_PAGE_ID' with your actual acc
 
 Remember to review and adhere to Facebook's API policies and terms of service when automating posts to a Facebook Page.
 
+For Instagram : 
+Please note that the Instabot library interacts with Instagram using unofficial methods, and there is a risk of violating Instagram's terms of service. Use this library responsibly and at your own discretion.
+
+Ensure that you have a valid Instagram Business account and provide your actual Instagram username and password when logging in.
+
+Remember to review and adhere to Instagram's API usage policies and terms of service when automating posts on Instagram.
+
 
