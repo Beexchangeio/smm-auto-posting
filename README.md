@@ -5,6 +5,15 @@ Make sure to replace the placeholder values in the consumer_key, consumer_secret
 
 Once you have the script and the library installed, you can run it by executing the Python file. It will prompt you to enter the tweet message, and then it will post the tweet to your Twitter account.
 
-Please note that each social media platform has its own API and authentication process. You'll need to refer to the documentation of the specific platform you want to post to, and adjust the code accordingly.
+Please note that each social media platform has its own API and authentication process. You'll need to refer to the documentation of the specific platform you want to post to and adjust the code accordingly.
 
 Remember to use social media automation responsibly and in compliance with the platform's terms of service and API usage policies.
+
+For Facebook : 
+Please note that to use the Facebook Graph API, you'll need to generate an access token with the necessary permissions. You can obtain an access token by creating a Facebook Developer account, creating an app, and following the authentication process.
+
+Make sure to replace 'YOUR_ACCESS_TOKEN' and 'YOUR_PAGE_ID' with your actual access token and Page ID.
+
+Remember to review and adhere to Facebook's API policies and terms of service when automating posts to a Facebook Page.
+
+
