@@ -23,4 +23,10 @@ Ensure that you have a valid Instagram Business account and provide your actual 
 
 Remember to review and adhere to Instagram's API usage policies and terms of service when automating posts on Instagram.
 
+For Linkedin : 
+
+Please note that to use the LinkedIn API, you need to have a LinkedIn Developer account and create an app to obtain the necessary API credentials (client ID, client secret, and access token). The process of obtaining these credentials may have changed, so refer to the LinkedIn Developer documentation for the most up-to-date instructions.
+
+Remember to review and adhere to LinkedIn's API terms of service and usage policies when automating posts on LinkedIn.
+
 
